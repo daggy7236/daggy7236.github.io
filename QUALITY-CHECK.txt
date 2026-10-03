@@ -1,0 +1,25 @@
+BITO ELECTRICAL WEBSITE QUALITY CHECK
+Date: 3 August 2026
+
+PASS - 15 HTML pages parsed successfully.
+PASS - All local HTML links resolve to an existing file.
+PASS - All linked internal anchors resolve.
+PASS - All local image/CSS/JS references resolve.
+PASS - All images include ALT text.
+PASS - JSON-LD structured data parses successfully.
+PASS - Page titles and meta descriptions are unique.
+PASS - sitemap.xml is valid XML and contains 14 indexable URLs.
+PASS - Homepage contains all 21 requested service cards.
+PASS - Homepage H1: Cape Town's Trusted Electrical & Solar Experts.
+PASS - No old client-facing SEO explanation phrases remain.
+PASS - Responsive breakpoints included for tablet, mobile and small mobile screens.
+PASS - Call links use tel:+27783240147.
+PASS - WhatsApp actions use wa.me/27783240147.
+PASS - Quote forms prepare a structured WhatsApp enquiry.
+PASS - Gallery filters are wired in JavaScript and gallery captions match supplied images.
+
+ACCOUNT/DEPLOYMENT ITEMS NOT TESTABLE IN STATIC FILES
+- Google Search Console verification/submission needs the client's Google account.
+- Google Analytics needs the actual GA4 Measurement ID.
+- Facebook/LinkedIn links need the client's exact verified profile URLs.
+- Live DNS, SSL and server behaviour must be confirmed after upload.

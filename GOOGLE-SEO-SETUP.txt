@@ -1,0 +1,24 @@
+GOOGLE SEARCH CONSOLE + ANALYTICS SETUP
+
+SEARCH CONSOLE
+1. Sign in to Google Search Console with the business Google account.
+2. Add a Domain property for bitoelectrical.co.za (preferred) or URL-prefix property https://bitoelectrical.co.za/.
+3. Complete the DNS verification requested by Google.
+4. Open Sitemaps and submit: https://bitoelectrical.co.za/sitemap.xml
+5. Use URL Inspection and request indexing for:
+   - https://bitoelectrical.co.za/
+   - https://bitoelectrical.co.za/services.html
+   - https://bitoelectrical.co.za/electrical-services.html
+   - https://bitoelectrical.co.za/solar.html
+   - https://bitoelectrical.co.za/coc-inspections.html
+   - https://bitoelectrical.co.za/contact.html
+
+GOOGLE ANALYTICS 4
+1. Create/open the BITO ELECTRICAL GA4 property.
+2. Create a Web data stream for https://bitoelectrical.co.za.
+3. Copy the Measurement ID (format G-XXXXXXXXXX).
+4. Add the official Google tag to every page immediately after <head>, or use Google Tag Manager.
+5. Test Realtime reports after deployment.
+
+SOCIAL LINKS
+Exact Facebook/LinkedIn URLs were not verified. Add only the client's confirmed page URLs to the footer and LocalBusiness sameAs array.

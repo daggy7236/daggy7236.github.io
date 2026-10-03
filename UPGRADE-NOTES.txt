@@ -1,0 +1,22 @@
+BITO ELECTRICAL — Client Feedback Upgrade
+Updated: 04 August 2026
+
+Implemented:
+- Modern dark-blue / white / gold visual refresh across the site
+- Improved hero styling and mobile hero-image visibility
+- Stronger contact and quote CTAs
+- Smooth reveal/fade animations on scroll
+- Service-card and button hover effects
+- Animated homepage metrics
+- Added 8+ years in business counter (public Snupit profile)
+- Added 22+ service options counter instead of inventing a completed-project figure
+- Added Event & Exhibition Electrical Services across navigation, footer and quote forms
+- Added dedicated SEO page: events-exhibitions.html
+- Added event/exhibition experience to About page
+- Added event service to homepage and Services page
+- Added Event/Exhibition service to homepage structured data
+- Added new page to sitemap and refreshed sitemap last-modified date
+- Checked internal links/assets and JavaScript syntax
+
+Important:
+The client asked for a completed-project counter, but no verified completed-project total was provided or found. A real service-count metric is used instead. Replace it once the client supplies a genuine project total.
